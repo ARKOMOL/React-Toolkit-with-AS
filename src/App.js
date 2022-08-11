@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div style={{"height":"100rem"}} className="App">
     <h1>  
       Counter App By Redux Toolkit
     </h1>
